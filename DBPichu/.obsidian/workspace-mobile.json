@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stats/Base Stats/Attack Speed.md",
+                "file": "Dodging Ability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attack Speed"
+              "title": "Dodging Ability"
             }
           },
           {
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Stats/Base Stats/Attack Speed.md",
+            "file": "Dodging Ability.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Stats/Base Stats/Attack Speed.md",
+            "file": "Dodging Ability.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Stats/Base Stats/Attack Speed.md",
+            "file": "Dodging Ability.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -169,14 +169,15 @@
   },
   "active": "e0db28286f18899d",
   "lastOpenFiles": [
-    "Stats/Base Stats/Blocking Ability.md",
+    "Stats/Body/Agility.md",
+    "Dodging Ability.md",
     "Stats/Base Stats/Attack Speed.md",
+    "Stats/Base Stats/Blocking Ability.md",
     "Stats/Base Stats/Movement Speed.md",
     "Stats/Base Stats/Hit Points.md",
     "Stats/Base Stats/Melee Damage.md",
     "Stats/Base Stats/Melee Resistance.md",
     "Skills/Melee Skills.md",
-    "Stats/Body/Agility.md",
     "Game Mechanics/Noncombat/Training.md",
     "Stats/Body/Body Stats.md",
     "Stats/Body/Might.md",
