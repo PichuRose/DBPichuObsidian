@@ -1,1 +1,1 @@
-Movement Speed controls how fast you move in and out of combat. 
+Movement Speed controls how fast you move in and out of combat. It can also
