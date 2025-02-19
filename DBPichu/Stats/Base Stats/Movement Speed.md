@@ -1,1 +1,1 @@
-Movement Speed controls how fast you move in and out of combat. It can also
+Movement Speed controls how fast you move in and out of combat. It can also affect how much certain things can travel, such as certain [[Skills]]. In order to raise this statistic, you must [[Sprint]], or do [[Training]]. 
