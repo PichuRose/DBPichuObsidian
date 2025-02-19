@@ -1,1 +1,1 @@
-This stat improves how well you can [[Dodge]]. In order to improve it, you must successfully [[Dodge]] attacks, or do [[Training]]. Each meve
+This stat improves how well you can [[Dodge]]. In order to improve it, you must successfully [[Dodge]] attacks, or do [[Training]]. Each level of this stat 
