@@ -1,1 +1,1 @@
-Power Release dictates your hard cap for how much percentage of power you can release at the max and minimum output. 
+Power Release dictates the maximum and minimum power output that yo
