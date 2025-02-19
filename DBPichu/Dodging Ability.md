@@ -1,1 +1,1 @@
-This stat improves how well you can [[Dodge]]
+This stat improves how well you can [[Dodge]]. In order to improve it, you must successfully [[Dodge]] attacks, or 
