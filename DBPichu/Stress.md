@@ -1,0 +1,1 @@
+Each level of stress 

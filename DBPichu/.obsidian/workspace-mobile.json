@@ -11,10 +11,14 @@
             "id": "e0db28286f18899d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Stress.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stress"
             }
           },
           {
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Stress.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Stress.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Stress.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -162,6 +169,7 @@
   },
   "active": "e0db28286f18899d",
   "lastOpenFiles": [
+    "Stress.md",
     "Power-Ups/Techniques/Kaioken.md",
     "Stats/Base Stats/Dodging Ability.md",
     "Stats/Body/Agility.md",
