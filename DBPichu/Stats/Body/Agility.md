@@ -1,0 +1,1 @@
+Agility is composed of [[Movement Speed]], [[Attack Speed]], and [[Dodging Ability]]. 
