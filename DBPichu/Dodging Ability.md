@@ -1,1 +1,1 @@
-This stat 
+This stat improves how well you can [[Dodge]]
