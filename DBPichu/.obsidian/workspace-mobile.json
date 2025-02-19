@@ -25,10 +25,14 @@
             "id": "1bdd383c8dbd56b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Power Release.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power Release"
             }
           }
         ],
@@ -163,6 +167,11 @@
   },
   "active": "1bdd383c8dbd56b1",
   "lastOpenFiles": [
+    "Power Release.md",
+    "Stats/Body/Body Stats.md",
+    "Stats/Body/Might.md",
+    "Stats/Body/Vigor.md",
+    "Stats/Body/Agility.md",
     "Beat Bounce.md",
     "Game Mechanics/Combat/Skills/Melee Skills.md",
     "Stats/Base Stats/Attack Speed.md",
@@ -170,15 +179,11 @@
     "Power-Ups/Techniques/Kaioken.md",
     "Game Mechanics/Combat/Stress.md",
     "Stats/Base Stats/Dodging Ability.md",
-    "Stats/Body/Agility.md",
     "Stats/Base Stats/Blocking Ability.md",
     "Stats/Base Stats/Movement Speed.md",
     "Stats/Base Stats/Hit Points.md",
     "Stats/Base Stats/Melee Damage.md",
     "Stats/Base Stats/Melee Resistance.md",
-    "Game Mechanics/Noncombat/Training.md",
-    "Stats/Body/Body Stats.md",
-    "Stats/Body/Might.md",
-    "Stats/Body/Vigor.md"
+    "Game Mechanics/Noncombat/Training.md"
   ]
 }
