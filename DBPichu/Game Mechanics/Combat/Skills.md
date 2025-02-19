@@ -1,3 +1,1 @@
-Skills are vital tools in 
-[[Melee Skills]]
-[[Ki Skills]]
+Skills are vital tools in [[Combat]]. Some skills you can create, and some skills you must learn. [[Melee Skills]] are vital for close ranged combat, although there can be some long ranged options as well. [[Ki Skills]] are the opposite, tending towards long range, but of course have a few short ranged options as well.
