@@ -1,0 +1,1 @@
+Might is composed of [[Melee Damage]], [[Melee Resistance]], and [[Blocking Ability]] stats.

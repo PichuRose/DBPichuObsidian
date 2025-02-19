@@ -1,0 +1,1 @@
+A technique used to multiply your power output. It focuses on [[Melee Damage]], [[Melee Resistance]], [[Movement Speed]], and [[Attack Speed]], while being neutral or a detriment to your other stats. 

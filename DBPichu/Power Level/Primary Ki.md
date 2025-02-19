@@ -1,0 +1,1 @@
+Your Primary Ki, also known as your base stats, is composed of several different pieces. The [[Body Stats]] dictate your physical power, durability, and speed. The [[Mind Stats]] dictate your smarts and your senses. The [[Spirit Stats]] dictate your composure.

@@ -1,0 +1,1 @@
+Simply governs [[Hit Points]] stat.

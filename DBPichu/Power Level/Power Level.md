@@ -1,0 +1,1 @@
+Your Power Level is a number dictating how powerful you are in general. It takes into account all of your types of ki, including your [[Primary Ki]], [[Secondary Ki]], [[Power Release]], and [[Tertiary Ki]]

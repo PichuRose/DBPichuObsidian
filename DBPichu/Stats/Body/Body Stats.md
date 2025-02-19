@@ -1,0 +1,1 @@
+Composed of [[Vigor]](HP), [[Might]](Melee damage, resist, and blocking), and [[Agility]](Move/attack speed, dodging).

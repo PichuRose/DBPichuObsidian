@@ -1,0 +1,1 @@
+This stat controls how much HP you have. Your HP controls how close you are to being knocked out or killed, and is a resource consumed for [[Kaioken]] and for [[Genki]]. In order to raise this statistic, you must consume HP, or do [[Training]]. You have an equal amount of maximum HP to your amount of this stat.
