@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stats/Body/Agility.md",
+                "file": "Movement Speed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agility"
+              "title": "Movement Speed"
             }
           }
         ],
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Stats/Body/Agility.md",
+            "file": "Movement Speed.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Stats/Body/Agility.md",
+            "file": "Movement Speed.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -146,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Stats/Body/Agility.md",
+            "file": "Movement Speed.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,10 +170,11 @@
   },
   "active": "1bdd383c8dbd56b1",
   "lastOpenFiles": [
+    "Stats/Body/Agility.md",
+    "Movement Speed.md",
     "Stats/Body/Body Stats.md",
     "Stats/Body/Might.md",
     "Stats/Body/Vigor.md",
-    "Stats/Body/Agility.md",
     "Skills/Melee Skills.md",
     "Game Mechanics/Combat/Skills.md"
   ]
