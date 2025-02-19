@@ -1,2 +1,2 @@
-[[Melee Skills]] are skills that are used usually for close ranged [[Combat]]. 
+[[Melee Skills]]
 [[Ki Skills]]
