@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stats/Base Stats/Movement Speed.md",
+                "file": "Stats/Base Stats/Attack Speed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movement Speed"
+              "title": "Attack Speed"
             }
           },
           {
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Stats/Base Stats/Movement Speed.md",
+            "file": "Stats/Base Stats/Attack Speed.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Stats/Base Stats/Movement Speed.md",
+            "file": "Stats/Base Stats/Attack Speed.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Stats/Base Stats/Movement Speed.md",
+            "file": "Stats/Base Stats/Attack Speed.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -169,12 +169,12 @@
   },
   "active": "e0db28286f18899d",
   "lastOpenFiles": [
+    "Stats/Base Stats/Movement Speed.md",
     "Stats/Base Stats/Attack Speed.md",
     "Stats/Base Stats/Blocking Ability.md",
     "Stats/Base Stats/Hit Points.md",
     "Stats/Base Stats/Melee Damage.md",
     "Stats/Base Stats/Melee Resistance.md",
-    "Stats/Base Stats/Movement Speed.md",
     "Skills/Melee Skills.md",
     "Stats/Body/Agility.md",
     "Game Mechanics/Noncombat/Training.md",
