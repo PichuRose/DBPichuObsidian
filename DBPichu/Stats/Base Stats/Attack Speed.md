@@ -1,1 +1,1 @@
-Attack Speed controls how often you can use your [[Basic Attacks]], and how fast they hit. Certain [[Melee Skills]] may attack faster based on this statistic. In order to raise it, you must use your [[Basic Attacks]], or do [[Training]]. 
+Attack Speed controls how often you can use your [[Basic Attacks]], and how fast they hit. Certain [[Melee Skills]] may attack faster based on this statistic. In order to raise it, you must use your [[Basic Attacks]], or do [[Training]].
