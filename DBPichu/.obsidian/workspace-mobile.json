@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movement Speed.md",
+                "file": "Stats/Base Stats/Movement Speed.md",
                 "mode": "source",
                 "source": false
               },
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Movement Speed.md",
+            "file": "Stats/Base Stats/Movement Speed.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Movement Speed.md",
+            "file": "Stats/Base Stats/Movement Speed.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -146,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Movement Speed.md",
+            "file": "Stats/Base Stats/Movement Speed.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -171,7 +171,7 @@
   "active": "1bdd383c8dbd56b1",
   "lastOpenFiles": [
     "Stats/Body/Agility.md",
-    "Movement Speed.md",
+    "Stats/Base Stats/Movement Speed.md",
     "Stats/Body/Body Stats.md",
     "Stats/Body/Might.md",
     "Stats/Body/Vigor.md",
