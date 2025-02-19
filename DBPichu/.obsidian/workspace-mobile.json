@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dodging Ability.md",
+                "file": "Power-Ups/Techniques/Kaioken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dodging Ability"
+              "title": "Kaioken"
             }
           },
           {
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dodging Ability.md",
+            "file": "Power-Ups/Techniques/Kaioken.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dodging Ability.md",
+            "file": "Power-Ups/Techniques/Kaioken.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dodging Ability.md",
+            "file": "Power-Ups/Techniques/Kaioken.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -169,8 +169,8 @@
   },
   "active": "e0db28286f18899d",
   "lastOpenFiles": [
+    "Stats/Base Stats/Dodging Ability.md",
     "Stats/Body/Agility.md",
-    "Dodging Ability.md",
     "Stats/Base Stats/Attack Speed.md",
     "Stats/Base Stats/Blocking Ability.md",
     "Stats/Base Stats/Movement Speed.md",
