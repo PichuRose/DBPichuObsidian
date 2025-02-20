@@ -1,0 +1,1 @@
+This stat controls how much damage you can [[Reflect]], when reflecting applies. In order to train this statistic, you must successfully reflect attacks, or do training. 
