@@ -6,4 +6,4 @@ So, if you are at 100% of each resource:
 Max% = 100 - (1/3*(50-100)) - (1/3*(50-100)) - (1/3*(50-100)) = 100 - (-50) = 150
 If you are at 0% of each resource:
 Max% = 100 - 50 = 50
-Max% = 100 - (2/3)*(50-100)
+Max% = 100 - (2/3)x(50-100)x3
