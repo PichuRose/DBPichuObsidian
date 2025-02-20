@@ -1,0 +1,1 @@
+Simply governs [[Stamina Points]] stat.

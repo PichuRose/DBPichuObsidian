@@ -10,4 +10,12 @@ Max%
 = 100 + 100 
 = 200
 If you are at 0% of each resource:
-Max% = 100 - (50x) = 0
+Max% = 100 - (50x2) = 0
+If you are at 50% of each resource:
+Max% = 100 - (0x2) = 100
+If you are at Half HP, Half Ki, but Empty Stamina
+Max% = 100 - ((2/3)x(50-50)) - ((2/3)x(50-50)) - ((2/3)x(50-0))
+= 100 - ((2/3)x(0)) - ((2/3)x(0)) - ((2/3)x(50))
+= 100 - 0 - 0 - ((2/3)x(50))
+= 100 - 33.3333
+= 66.66666666

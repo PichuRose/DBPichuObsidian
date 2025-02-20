@@ -1,0 +1,1 @@
+Simply governs [[Ki Points]] stat.

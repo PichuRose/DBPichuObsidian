@@ -1,0 +1,1 @@
+Composed of [[Intelligence]](Ki Damage, Ki Resistance, Reflection) and [[Wisdom]] (Maximum Ki).

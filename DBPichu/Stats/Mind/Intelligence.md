@@ -1,0 +1,1 @@
+Intelligence is composed of [[Ki Damage]], [[Ki Resistance]], and [[Reflection Ability]] stats. 

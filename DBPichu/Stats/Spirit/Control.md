@@ -1,0 +1,1 @@
+Composed of [[Power Release]] and [[Skill Cooldown]] stats.

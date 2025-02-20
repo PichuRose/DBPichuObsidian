@@ -1,0 +1,1 @@
+Composed of [[Energy]] (Maximum Stamina) and [[Control]] (Power Release and Skill Cooldown)

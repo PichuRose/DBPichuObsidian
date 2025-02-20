@@ -1,1 +1,1 @@
-This stat controls how much damage you can [[Block]], when blocking applies. It decreases damage taken by 1% multiplicatively, and also decreases damage when blocked by .1 additively. 
+This stat controls how much damage you can [[Block]], when blocking applies. It decreases damage taken by 1% multiplicatively, and also decreases damage when blocked by .1 additively. In order to train this statistic, you must successfully block attacks, or do training. 

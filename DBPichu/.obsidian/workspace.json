@@ -6,46 +6,29 @@
       {
         "id": "5e0b11034793fc54",
         "type": "tabs",
-        "dimension": 56.28172588832487,
-        "children": [
-          {
-            "id": "997ca01b2488d77d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stats/Base Stats/Melee Damage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Melee Damage"
-            }
-          },
-          {
-            "id": "d62e06af0e8747a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Mechanics/Noncombat/Training.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Training"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "13a6c42df201b12c",
-        "type": "tabs",
-        "dimension": 43.71827411167513,
         "children": [
           {
             "id": "9f2d43ad1f6b3f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stats/Spirit/Control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Control"
+            }
+          }
+        ]
+      },
+      {
+        "id": "528e272608b4603b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dc63d5ac38479a0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -201,31 +184,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f2d43ad1f6b3f4f",
+  "active": "6dc63d5ac38479a0",
   "lastOpenFiles": [
-    "Power Level.md",
-    "Power-Ups/Techniques/Kaioken.md",
-    "Stats/Body/Vigor.md",
-    "Skills/Melee Skills.md",
+    "Game Mechanics/Noncombat/Training.md",
+    "Beat Bounce.md",
+    "Stats/Base Stats/Dodging Ability.md",
+    "Stats/Base Stats/Attack Speed.md",
+    "Stats/Base Stats/Movement Speed.md",
+    "Stats/Base Stats/Melee Resistance.md",
     "Stats/Base Stats/Blocking Ability.md",
     "Stats/Base Stats/Melee Damage.md",
-    "Stats/Base Stats/Melee Resistance.md",
-    "Stats/Body/Body Stats.md",
-    "Stats/Body/Might.md",
-    "Power Level/Primary Ki.md",
-    "Power Level/Power Level.md",
-    "Game Mechanics/Combat/Skills.md",
-    "Game Mechanics/Combat/Block.md",
-    "Power Level/Secondary Ki.md",
-    "Power Level/Tertiary Ki.md",
     "Stats/Base Stats/Hit Points.md",
-    "Ki Skills.md",
-    "Genki.md",
+    "Stats/Spirit/Spirit Stats.md",
+    "Stats/Spirit/Energy.md",
+    "Stats/Spirit/Control.md",
+    "Game Mechanics/Combat/Skills/Melee Skills.md",
+    "Untitled.md",
+    "Stats/Mind/Wisdom.md",
+    "Stats/Mind/Intelligence.md",
+    "Stats/Body/Body Stats.md",
     "Stats/Body/Agility.md",
+    "Stats/Body/Vigor.md",
+    "Stats/Body/Might.md",
+    "Stats/Mind/Mind Stats.md",
     "Stats/Base Stats/Power Release.md",
-    "Stats/Base Stats/Movement Speed.md",
-    "Stats/Base Stats/Attack Speed.md",
-    "Game Mechanics/Noncombat/Training.md",
+    "Game Mechanics/Combat/Stress.md",
+    "Game Mechanics/Combat/Skills/Skills.md",
+    "Game Mechanics/Combat/Skills",
+    "Power Level.md",
+    "Power-Ups/Techniques/Kaioken.md",
     "Skills",
     "Power-Ups/Techniques",
     "Power-Ups/Transformations",
@@ -234,8 +221,6 @@
     "Game Mechanics/Noncombat",
     "Game Mechanics/Combat",
     "Game Mechanics",
-    "Stats/Base Stats",
-    "Stats",
-    "Welcome.md"
+    "Stats/Base Stats"
   ]
 }
