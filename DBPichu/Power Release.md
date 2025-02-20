@@ -10,4 +10,4 @@ Max%
 = 100 + 100 
 = 200
 If you are at 0% of each resource:
-Max% = 100 - 50= 50
+Max% = 100 - (50x) = 0
