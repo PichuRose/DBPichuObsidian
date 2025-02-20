@@ -4,9 +4,10 @@ But, this is not all. Power release is also capped by your [[Hit Points]], [[Sta
 Max% = 100 - (2/3*(50-HP%)) - (2/3*(50-STM%)) - (2/3*(50-KI%))
 So, if you are at 100% of each resource:
 Max% 
-= 100 - (2/3*(50-100)) - (2/3*(50-100)) - (2/3*(50-100)) 
+= 100 - (2/3*(50-100))x3
 = 100 - 2x(50-100) 
 = 100 - (-50x2) 
-= 100 + 100 = 200
+= 100 + 100 
+= 200
 If you are at 0% of each resource:
 Max% = 100 - 50 = 50
