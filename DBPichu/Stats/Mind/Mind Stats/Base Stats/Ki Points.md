@@ -1,1 +1,1 @@
-This stat controls how much KP you have. Your KP is a resource consumed for general ki uses, such as [[Transformations]] and [[Ki Skills]]. In order to raise this statistic, you must consume KP, or do training. You have an equal amount of maximum KP to your amount of this stat.
+This stat controls how much KP you have. Your KP is a resource consumed for general ki uses, such as [[Transformations]], [[Fly]], and [[Ki Skills]]. In order to raise this statistic, you must consume KP, or do training. You have an equal amount of maximum KP to your amount of this stat.
