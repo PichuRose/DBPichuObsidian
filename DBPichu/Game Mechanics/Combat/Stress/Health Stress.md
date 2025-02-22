@@ -1,0 +1,1 @@
+Each level of light stress drains [[Hit Points]]. It increases slowly, although exponentially, as you increase in levels of stress. Each level of stress is additively 1% more draining than the last.

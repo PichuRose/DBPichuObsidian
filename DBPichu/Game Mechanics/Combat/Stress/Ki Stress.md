@@ -1,0 +1,1 @@
+1Each level of mental stress drains [[Ki Points]]. It increases slowly, although exponentially, as you increase in levels of stress. Each level of stress is additively 1% more draining than the last. Every 20 levels, automatically applies 1 level of [[Stamina Stress]].

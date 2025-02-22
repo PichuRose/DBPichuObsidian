@@ -1,0 +1,1 @@
+This stat controls how much damage you deal with your ki attacks(whether they are skills or not). In order to raise this statistic, you must deal ki damage, or do training. Your ki damage for a single hit of melee is equal to 0.1 per point of this stat. It is used for [[Ki Skills]]

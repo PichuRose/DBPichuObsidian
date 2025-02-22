@@ -1,0 +1,1 @@
+This stat controls how much SP you have. Your SP is a resource consumed for [[Eiloken]] and for general stamina uses, such as to [[Block]], [[Dodge]], [[Sprint]], [[Reflect]] and [[Melee Skills]]. In order to raise this statistic, you must consume KP, or do training. You have an equal amount of maximum KP to your amount of this stat.

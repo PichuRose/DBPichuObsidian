@@ -1,0 +1,1 @@
+Sprinting is how you utilize your [[Movement Speed]], which consumes [[Stamina Points]]. While not sprinting, you move a normal speed. While sprinting, you move as fast as your [[Movement Speed]] makes you. This works while you [[Fly]] also, making you fly quickly.

@@ -1,0 +1,1 @@
+This stat controls how much damage you take from enemy ki attacks(whether they are skills or not). In order to raise this statistic, you must take ki damage, or do training. Your ki resistance for a single hit of ki is equal to 0.1 per point of this stat. It is used for [[Ki Skills]].
