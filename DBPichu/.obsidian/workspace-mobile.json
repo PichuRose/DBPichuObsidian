@@ -167,6 +167,11 @@
   },
   "active": "1bdd383c8dbd56b1",
   "lastOpenFiles": [
+    "Power-Ups/Techniques/Eiloken.md",
+    "Stats/Mind/Mind Stats.md",
+    "Stats/Body/Body Stats/Base Stats/Blocking Ability.md",
+    "Stats/Body/Body Stats/Base Stats/Melee Resistance.md",
+    "Stats/Body/Body Stats/Vigor.md",
     "Game Mechanics/Combat/Stress/Ki Stress.md",
     "Power-Ups/Transformations.md",
     "Stats/Spirit/Spirit Stats/Base Stats/Power Release.md",
@@ -175,7 +180,6 @@
     "Stats/Spirit/Spirit Stats/Base Stats",
     "Stats/Spirit/Spirit Stats",
     "Stats/Mind/Mind Stats/Wisdom.md",
-    "Power-Ups/Techniques/Eiloken.md",
     "Stats/Body/Body Stats/Base Stats/Melee Damage.md",
     "Stats/Body/Body Stats/Base Stats/Movement Speed.md",
     "Stats/Body/Body Stats/Base Stats/Hit Points.md",
@@ -196,10 +200,6 @@
     "Stats/Mind/Mind Stats/Intelligence.md",
     "Stats/Mind/Mind Stats/Base Stats",
     "Stats/Mind/Mind Stats",
-    "Game Mechanics/Combat/Stress/Health Stress.md",
-    "Game Mechanics/Combat/Stress",
-    "Stats/Mind/Wisdom.md",
-    "Stats/Body/Agility.md",
-    "Stats/Body/Body Stats.md"
+    "Game Mechanics/Combat/Stress"
   ]
 }
