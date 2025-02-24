@@ -1,1 +1,1 @@
-This skill dictates how long your skills need to cool down before you can use them again. In order to train this skill, use skills, or do training. Each level multiplies your cooldown by .99x.
+This skill dictates how long your skills need to cool down before you can use them again. In order to train this skill, use [[Skills]], or do training. Each level multiplies your cooldown by .99x.

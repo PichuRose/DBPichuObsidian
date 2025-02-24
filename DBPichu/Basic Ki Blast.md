@@ -1,0 +1,1 @@
+his is the most basic of the [[Ki Skills]], obtained immediately. It always does 1 attack of 100% potency, utilizing your [[Attack Speed]], and [[Ki Damage]]. Due to it being a neutral hit, it is not as easy to reflect, but it is easy to block. Dodging works normally. 
