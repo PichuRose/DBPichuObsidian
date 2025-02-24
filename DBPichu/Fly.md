@@ -1,0 +1,1 @@
+Flying is a technique allowing you to levitate off of the ground and also to travel quickly regardless of terrain. You can even use it to do combat in the air. It inflicts 1 level of [[Ki Stress]] per second to fly. Notably, most races do not start with this technique. 
